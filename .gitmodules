@@ -1,0 +1,9 @@
+[submodule "core-app"]
+	path = core-app
+	url = https://github.com/cocotask/core-app.git
+[submodule "core-backend"]
+	path = core-backend
+	url = https://github.com/cocotask/core-backend.git
+[submodule "core-frontend-js"]
+	path = core-frontend-js
+	url = https://github.com/cocotask/core-frontend-js.git
